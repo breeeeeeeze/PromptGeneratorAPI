@@ -1,0 +1,4 @@
+fastapi
+PIL
+clip-interrogator
+uvicorn

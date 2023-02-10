@@ -1,0 +1,8 @@
+{
+  "api": {
+    "port": 8001
+  },
+  "ai": {
+    "generator_mode_override": "fast"
+  }
+}
