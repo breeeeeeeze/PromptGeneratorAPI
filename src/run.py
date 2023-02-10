@@ -3,7 +3,7 @@ from config import config
 
 
 def main():
-    uvicorn.run('main:app', port=config.api.port, reload=True, log_level='info')
+    uvicorn.run('main:app', port=config.api.port, reload=config.api.reload, log_level='info')
 
 
 if __name__ == '__main__':

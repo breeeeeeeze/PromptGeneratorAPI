@@ -14,6 +14,7 @@ class AiConfig:
 @dataclass
 class ApiConfig:
     port: int
+    reload: bool
 
 
 @dataclass

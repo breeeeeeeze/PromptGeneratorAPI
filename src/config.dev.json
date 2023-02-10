@@ -1,6 +1,7 @@
 {
   "api": {
-    "port": 8000
+    "port": 8000,
+    "reload": true
   },
   "ai": {
     "generator_mode_override": "fast"
